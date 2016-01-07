@@ -1,2 +1,2 @@
 # Comart
-My First Hybrid Application with Ionic framework
+Hybrid Application with Ionic framework
